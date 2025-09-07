@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(135deg, blue, purple);
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: white;
+  font-size: 3rem;
+  text-align: center;
+}
